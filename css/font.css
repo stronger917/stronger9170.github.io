@@ -1,0 +1,8 @@
+@font-face{
+  font-family: 'fzgxtt';
+  src: url('/css/fzgxtt.ttf');   
+}
+
+body {
+  font-family: 'fzgxtt';
+}
